@@ -645,3 +645,44 @@ img {
 }
 
 .about-card h3 {
+/* --- Contact Section Fix: Icon + Text in One Line --- */
+
+.contact-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.contact-card {
+  display: flex;              /* 👈 makes icon + text side-by-side */
+  align-items: center;        /* 👈 vertical center */
+  gap: 14px;                  /* 👈 space between icon and text */
+  background: #ffffff;
+  padding: 16px 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.contact-icon {
+  font-size: 22px;
+  color: #6366f1;             /* primary color */
+  min-width: 28px;            /* keeps all icons aligned */
+}
+
+.contact-details h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.contact-details p {
+  margin: 4px 0 0 0;
+  font-size: 14px;
+  color: #475569;
+}
