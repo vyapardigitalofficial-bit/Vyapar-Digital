@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plans & Pricing | Vyapaar Digital - Premium Digital Agency in Bilaspur</title>
+    <meta name="description" content="Vyapaar Digital offers affordable digital solutions. Check our plans for Google Business Setup, Websites, and Digital Support in Bilaspur.">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-dark">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <div class="logo-icon">
+                    <i class="fas fa-rocket"></i>
+                </div>
+                <div class="logo-text">
+                    <span class="brand-name">Vyapaar</span>
+                    <span class="brand-tagline">Digital</span>
+                </div>
+            </a>
+            
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="index.html#services" class="nav-link">Services</a></li>
+                <li><a href="plans.html" class="nav-link active">Plans</a></li>
+                <li><a href="index.html#contact" class="nav-link btn-primary-nav">Contact</a></li>
+            </ul>
+            
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="header-bg">
+            <div class="glow-circle gc1"></div>
+            <div class="glow-circle gc2"></div>
+            <div class="glow-circle gc3"></div>
+        </div>
+        <div class="container">
+            <div class="header-content">
+                <span class="section-tag">Pricing</span>
+                <h1>Our Plans & Pricing</h1>
+                <p>Choose the perfect plan for your business growth</p>
+            </div>
+        </div>
+        <div class="header-wave">
+            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
+            </svg>
+        </div>
+    </section>
+
+    <!-- Plans Section -->
+    <section class="plans-section">
+        <div class="container">
+            
+            <!-- Google Business Plans -->
+            <div class="plans-category">
+                <div class="category-header">
+                    <div class="category-icon">
+                        <i class="fab fa-google"></i>
+                    </div>
+                    <h2>Google Business Solutions</h2>
+                    <p>Get your business visible on Google Maps and Search</p>
+                </div>
+                
+                <div class="plans-grid">
+                    <!-- Plan 1 -->
+                    <div class="plan-card">
+                        <div class="plan-badge">Most Popular</div>
+                        <h3 class="plan-name">Google Business Setup</h3>
+                        <p class="plan-desc">Get your shop on Google so customers can find you, call you, and visit you easily.</p>
+                        
+                        <div class="plan-price">
+                            <span class="current-price">₹799</span>
+                            <span class="old-price">₹1,999</span>
+                        </div>
+                        
+                        <ul class="plan-features">
+                            <li><i class="fas fa-check"></i> Google Maps listing creation / fixing</li>
+                            <li><i class="fas fa-check"></i> Business name, category, address, timing</li>
+                            <li><i class="fas fa-check"></i> Photos upload</li>
+                            <li><i class="fas fa-check"></i> Call & direction button setup</li>
+                            <li><i class="fas fa-check"></i> Basic optimization for local search</li>
+                        </ul>
+                        
+                        <a href="https://wa.me/917987241112?text=Hi,%20I'm%20interested%20in%20Google%20Business%20Setup%20plan.%20Please%20share%20details." target="_blank" class="btn btn-whatsapp btn-plan">
+                            <i class="fab fa-whatsapp"></i> Contact on WhatsApp
+                        </a>
+                    </div>
+                    
+                    <!-- Plan 2 -->
+                    <div class="plan-card">
+                        <div class="plan-badge badge-best">Best Value</div>
+                        <h3 class="plan-name">Google Business Optimization</h3>
+                        <p class="plan-desc">Take your Google presence to the next level with full optimization.</p>
+                        
+                        <div class="plan-price">
+                            <span class="current-price">₹1,499</span>
+                            <span class="old-price">₹2,999</span>
+                        </div>
+                        
+                        <ul class="plan-features">
+                            <li><i class="fas fa-check"></i> Profile optimization</li>
+                            <li><i class="fas fa-check"></i> Better photos + cover</li>
+                            <li><i class="fas fa-check"></i> Services/products section setup</li>
+                            <li><i class="fas fa-check"></i> Review guidance</li>
+                            <li><i class="fas fa-check"></i> Search visibility improvement</li>
+                        </ul>
+                        
+                        <a href="https://wa.me/917987241112?text=Hi,%20I'm%20interested%20in%20Google%20Business%20Optimization%20plan.%20Please%20share%20details." target="_blank" class="btn btn-whatsapp btn-plan">
+                            <i class="fab fa-whatsapp"></i> Contact on WhatsApp
+                        </a>
+                    </div>
+                    
+                    <!-- Plan 3 -->
+                    <div class="plan-card">
+                        <div class="plan-badge">Complete</div>
+                        <h3 class="plan-name">Online Presence Starter Pack</h3>
+                        <p class="plan-desc">Everything you need to establish your digital presence.</p>
+                        
+                        <div class="plan-price">
+                            <span class="current-price">₹2,499</span>
+                            <span class="old-price">₹3,999</span>
+                        </div>
+                        
+                        <ul class="plan-features">
+                            <li><i class="fas fa-check"></i> Google Business setup</li>
+                            <li><i class="fas fa-check"></i> Basic info page / mini website</li>
+                            <li><i class="fas fa-check"></i> Business details, services, contact buttons</li>
+                            <li><i class="fas fa-check"></i> WhatsApp & Call button</li>
+                            <li><i class="fas fa-check"></i> QR code for shop</li>
+                        </ul>
+                        
+                        <a href="https://wa.me/917987241112?text=Hi,%20I'm%20interested%20in%20Online%20Presence%20Starter%20Pack.%20Please%20share%20details." target="_blank" class="btn btn-whatsapp btn-plan">
+                            <i class="fab fa-whatsapp"></i> Contact on WhatsApp
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Website Plans -->
+            <div class="plans-category">
+                <div class="category-header">
+                    <div class="category-icon">
+                        <i class="fas fa-laptop-code"></i>
+                    </div>
+                    <h2>Website Development</h2>
+                    <p>Professional websites designed for your business growth</p>
+                </div>
+                
+                <div class="plans-grid">
+                    <!-- Plan 4 -->
+                    <div class="plan-card">
+                        <h3 class="plan-name">Basic Business Website</h3>
+                        <p class="plan-desc">Perfect for small businesses looking to establish an online presence.</p>
+                        
+                        <div class="plan-price">
+                            <span class="current-price">₹4,999</span>
+                            <span class="old-price">₹6,999</span>
+                        </div>
+                        
+                        <ul class="plan-features">
+                            <li><i class="fas fa-check"></i> 1–3 pages (Home, About, Contact/Services)</li>
+                            <li><i class="fas fa-check"></i> Mobile-friendly design</li>
+                            <li><i class="fas fa-check"></i> Call & WhatsApp button</li>
+                            <li><i class="fas fa-check"></i> Google Maps location</li>
+                            <li><i class="fas fa-check"></i> Basic business info</li>
+                        </ul>
+                        
+                        <a href="https://wa.me/917987241112?text=Hi,%20I'm%20interested%20in%20Basic%20Business%20Website%20plan.%20Please%20share%20details." target="_blank" class="btn btn-whatsapp btn-plan">
+                            <i class="fab fa-whatsapp"></i> Contact on WhatsApp
+                        </a>
+                    </div>
+                    
+                    <!-- Plan 5 -->
+                    <div class="plan-card">
+                        <div class="plan-badge">Most Popular</div>
+                        <h3 class="plan-name">Standard Business Website</h3>
+                        <p class="plan-desc">Complete website solution with more features and better design.</p>
+                        
+                        <div class="plan-price">
+                            <span class="current-price">₹8,999</span>
+                            <span class="old-price">₹11,999</span>
+                        </div>
+                        
+                        <ul class="plan-features">
+                            <li><i class="fas fa-check"></i> 4–6 pages</li>
+                            <li><i class="fas fa-check"></i> Better design</li>
+                            <li><i class="fas fa-check"></i> Services page</li>
+                            <li><i class="fas fa-check"></i> Photo gallery</li>
+                            <li><i class="fas fa-check"></i> Contact form</li>
+                            <li><i class="fas fa-check"></i> Google Maps + Call buttons</li>
+                        </ul>
+                        
+                        <a href="https://wa.me/917987241112?text=Hi,%20I'm%20interested%20in%20Standard%20Business%20Website%20plan.%20Please%20share%20details." target="_blank" class="btn btn-whatsapp btn-plan">
+                            <i class="fab fa-whatsapp"></i> Contact on WhatsApp
+                        </a>
+                    </div>
+                    
+                    <!-- Plan 6 -->
+                    <div class="plan-card">
+                        <div class="plan-badge badge-best">Premium</div>
+                        <h3 class="plan-name">Shop / Product Showcase Website</h3>
+                        <p class="plan-desc">Perfect for shops wanting to display products online.</p>
+                        
+                        <div class="plan-price">
+                            <span class="current-price">₹10,999</span>
+                            <span class="old-price">₹15,999</span>
+                        </div>
+                        
+                        <ul class="plan-features">
+                            <li><i class="fas fa-check"></i> Product/service showcase</li>
+                            <li><i class="fas fa-check"></i> Categories</li>
+                            <li><i class="fas fa-check"></i> Enquiry / WhatsApp order button</li>
+                            <li><i class="fas fa-check"></i> Mobile-friendly</li>
+                            <li><i class="fas fa-check"></i> Basic SEO setup</li>
+                        </ul>
+                        
+                        <a href="https://wa.me/917987241112?text=Hi,%20I'm%20interested%20in%20Shop%20Product%20Showcase%20Website%20plan.%20Please%20share%20details." target="_blank" class="btn btn-whatsapp btn-plan">
+                            <i class="fab fa-whatsapp"></i> Contact on WhatsApp
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Additional Services -->
+            <div class="plans-category">
+                <div class="category-header">
+                    <div class="category-icon">
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h2>Additional Services</h2>
+                    <p>Enhance your digital presence with our add-on services</p>
+                </div>
+                
+                <div class="plans-grid">
+                    <!-- Plan 7 -->
+                    <div class="plan-card">
+                        <h3 class="plan-name">Business Profile Setup Pack</h3>
+                        <p class="plan-desc">Make your WhatsApp look professional like a business account.</p>
+                        
+                        <div class="plan-price">
+                            <span class="current-price">₹499</span>
+                            <span class="old-price">₹899</span>
+                        </div>
+                        
+                        <ul class="plan-features">
+                            <li><i class="fas fa-check"></i> WhatsApp Business profile setup</li>
+                            <li><i class="fas fa-check"></i> Business description</li>
+                            <li><i class="fas fa-check"></i> Business hours</li>
+                            <li><i class="fas fa-check"></i> Auto-reply setup</li>
+                            <li><i class="fas fa-check"></i> Basic catalog setup</li>
+                        </ul>
+                        
+                        <a href="https://wa.me/917987241112?text=Hi,%20I'm%20interested%20in%20Business%20Profile%20Setup%20Pack.%20Please%20share%20details." target="_blank" class="btn btn-whatsapp btn-plan">
+                            <i class="fab fa-whatsapp"></i> Contact on WhatsApp
+                        </a>
+                    </div>
+                    
+                    <!-- Plan 8 -->
+                    <div class="plan-card">
+                        <div class="plan-badge">Monthly</div>
+                        <h3 class="plan-name">Monthly Digital Support</h3>
+                        <p class="plan-desc">Ongoing support to keep your digital presence fresh.</p>
+                        
+                        <div class="plan-price">
+                            <span class="current-price">₹599</span>
+                            <span class="price-period">per month</span>
+                            <span class="old-price">₹999</span>
+                        </div>
+                        
+                        <p class="plan-note">You can buy it only with any existing plan, and the money will be charged every month.</p>
+                        
+                        <ul class="plan-features">
+                            <li><i class="fas fa-check"></i> Profile updates</li>
+                            <li><i class="fas fa-check"></i> Photo uploads</li>
+                            <li><i class="fas fa-check"></i> Info changes</li>
+                            <li><i class="fas fa-check"></i> Basic support</li>
+                            <li><i class="fas fa-check"></i> Small improvements</li>
+                        </ul>
+                        
+                        <a href="https://wa.me/917987241112?text=Hi,%20I'm%20interested%20in%20Monthly%20Digital%20Support.%20Please%20share%20details." target="_blank" class="btn btn-whatsapp btn-plan">
+                            <i class="fab fa-whatsapp"></i> Contact on WhatsApp
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="plans-cta">
+        <div class="container">
+            <div class="cta-wrapper">
+                <div class="cta-content">
+                    <h2>Ready to Get Started?</h2>
+                    <p>To buy any plan or to know more, contact us on WhatsApp. We'll be happy to help you choose the perfect plan for your business.</p>
+                    <a href="https://wa.me/917987241112" target="_blank" class="btn btn-whatsapp-large">
+                        <i class="fab fa-whatsapp"></i> Message on WhatsApp
+                    </a>
+                </div>
+                <div class="cta-visual">
+                    <div class="cta-icon">
+                        <i class="fab fa-whatsapp"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer footer-dark">
+        <div class="footer-container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <a href="index.html" class="logo">
+                        <div class="logo-icon">
+                            <i class="fas fa-rocket"></i>
+                        </div>
+                        <span>Vyapaar Digital</span>
+                    </a>
+                    <p>Your trusted digital partner in Bilaspur</p>
+                </div>
+                <div class="footer-links">
+                    <a href="index.html">Home</a>
+                    <a href="index.html#services">Services</a>
