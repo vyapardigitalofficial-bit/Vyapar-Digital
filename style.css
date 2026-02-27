@@ -645,6 +645,10 @@ img {
 }
 
 .about-card h3 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 8px;
+} 
 /* --- Contact Section Fix: Icon + Text in One Line --- */
 
 .contact-wrapper {
@@ -659,7 +663,7 @@ img {
   gap: 16px;
 }
 
-.contact-card {
+.contact-card{ 
   display: flex;              /* 👈 makes icon + text side-by-side */
   align-items: center;        /* 👈 vertical center */
   gap: 14px;                  /* 👈 space between icon and text */
@@ -685,4 +689,47 @@ img {
   margin: 4px 0 0 0;
   font-size: 14px;
   color: #475569;
+}
+/* ======================================
+   RESPONSIVE FIX
+====================================== */
+
+@media (max-width: 992px) {
+    .hero-container {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    .about-wrapper {
+        grid-template-columns: 1fr;
+    }
+
+    .services-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .why-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .nav-menu {
+        display: none;
+    }
+
+    .hero-title {
+        font-size: 36px;
+    }
+
+    .services-grid,
+    .why-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hero-card {
+        width: 300px;
+        height: 300px;
+    }
 }
